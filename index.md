@@ -26,6 +26,11 @@
 <br><br>
 
 # 2. 관련 이미지 작품묘사
+
+## 2.2. 관련 동영상
+[![Video Label](http://img.youtube.com/vi/3kJq-Ydf-Rc/0.jpg)](https://youtu.be/3kJq-Ydf-Rc)
+
+
 <br><br>
 
 # 3. 게임 구성 요소
