@@ -109,6 +109,8 @@
 |1|플레이어 손|<img src="./img/obj/hand.jpg">|
 |2|NPC||
 |3|괴|<img src="./img/obj/bar.png">|
+|4|망치|<img src="./img/obj/bar.png">|
+|5|괴|<img src="./img/obj/bar.png">|
 
 <br>
 
