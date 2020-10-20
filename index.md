@@ -106,11 +106,13 @@
 ## 6.1. 게임 오브젝트 분해  
 |연번|오브젝트 이름|오브젝트 이미지|
 |:---:|:---:|:---:|
-|1|플레이어 손|<img src="./img/obj/hand.jpg">|
+|1|플레이어 손|<img src="./img/obj/hand.jpg" width="200">|
 |2|NPC||
-|3|괴|<img src="./img/obj/bar.png">|
-|4|망치|<img src="./img/obj/bar.png">|
-|5|괴|<img src="./img/obj/bar.png">|
+|3|괴|<img src="./img/obj/bar.png" width="200">|
+|4|망치|<img src="./img/obj/hammer.jpg" width="200">|
+|5|모루|<img src="./img/obj/moru.jpg" width="200">|
+|6|가마|<img src="./img/obj/gama.jpg" width="200">|
+|7|대장간|<img src="./img/obj/smithy.jpg" width="200">|
 
 <br>
 
