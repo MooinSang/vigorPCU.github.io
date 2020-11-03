@@ -202,10 +202,10 @@
 |**작업내용**|1주차|2주차|3주차|4주차|5주차|6주차|
 |-------|:---:|:---:|:---:|:---:|:---:|:---:|
 ||||||||
-|메뉴, UI|Main Menu|Menu On Controller|->||||
-|오브젝트 기본 배치|Work Space|->|||||
-|VR세팅|Controller, Head|Controller Key, Teleport|->||||
-|**오브젝트 상호작용(물리)**|Trigger, Grip|Click = Change|->|->|||
+|메뉴, UI||Main Menu|Menu On Controller||||
+|오브젝트 기본 배치|Work Space|Work Space|||||
+|VR세팅|Controller, Head|Controller Key, Teleport|Move, Init forwordView||||
+|**오브젝트 상호작용(물리)**|Trigger, Grip|Click = Change|Object끼리 충돌|->|||
 |맵|||->|->|->||
 |오브젝트 재배치|||||->|->|
 |모델, 그래픽||||->|->|->|
