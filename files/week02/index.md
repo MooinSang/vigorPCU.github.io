@@ -20,3 +20,4 @@
 2.바닥에 레이저포인터로 바닥레이어만 텔레포트 가능하게 구현  
 3.UI클릭을 위한 레이저포인터
 
+[실행영상 파일](https://vigorpcu.github.io/files/week02/week02Result.mp4)
